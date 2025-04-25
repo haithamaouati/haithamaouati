@@ -7,10 +7,10 @@
   </p>
 
 [![committers.top badge](https://user-badge.committers.top/algeria/haithamaouati.svg)](https://user-badge.committers.top/algeria/haithamaouati)
-[![StandWithPalestine](assets/StandWithPalestine.svg)](https://haithamaouati.github.io/whoami/palestine.html)
+[![StandWithPalestine](assets/StandWithPalestine.svg)](https://haithamaouati.github.io/haithamaouati/palestine.html)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haithamaouati&repo=Clawk)](https://github.com/haithamaouati/Clawk)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haithamaouati&hide_progress=true)
 
-Reach me via: [Who Am I](https://haithamaouati.github.io/whoami/) [Telegram](https://t.me/haithamaouati) [𝕏](https://x.com/hawkha_dz)
+Reach me via: [Who Am I](https://haithamaouati.github.io/haithamaouati/) [Telegram](https://t.me/haithamaouati) [𝕏](https://x.com/hawkha_dz)
