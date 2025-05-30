@@ -1,16 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img width="125" height="125" src="avatar.png">
+  <br><b>Haitham Aouati</b></p>
+  
+  <p align="center">
+    I’m Haitham Aouati (<i>also known as Immortal method</i>), a 25 yo tech enthusiast who likes computers. I’m not a genius or an expert in anything, but I’m always looking to gain and share my knowledge.
+  </p>
 
-<!--
-**haithamaouati/haithamaouati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![committers.top badge](https://user-badge.committers.top/algeria/haithamaouati.svg)](https://user-badge.committers.top/algeria/haithamaouati)
+[![StandWithPalestine](StandWithPalestine.svg)](https://haithamaouati.github.io/haithamaouati/palestine.html)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach me via: [Telegram](https://t.me/immortal_method)
