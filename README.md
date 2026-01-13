@@ -9,4 +9,8 @@
 [![committers.top badge](https://user-badge.committers.top/algeria/haithamaouati.svg)](https://user-badge.committers.top/algeria/haithamaouati)
 [![StandWithPalestine](StandWithPalestine.svg)](https://haithamaouati.github.io/haithamaouati/palestine.html)
 
+## Skills
+
+[![skills](https://skillicons.dev/icons?i=js,html,css,py,powershell,bash,dotnet,cs,java,git,github,md,windows,linux,kali,visualstudio,vscode,sublime&perline=3&theme=light)](https://skillicons.dev)
+
 Reach me via: [Telegram](https://t.me/immortal_method)
