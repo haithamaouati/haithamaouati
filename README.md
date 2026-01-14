@@ -13,4 +13,5 @@
 
 [![skills](https://skillicons.dev/icons?i=js,html,css,py,powershell,bash,dotnet,cs,java,git,github,md,windows,linux,kali,visualstudio,vscode,sublime&perline=3&theme=dark)](https://skillicons.dev)
 
+## Socials
 Reach me via: [Telegram](https://t.me/immortal_method)
