@@ -7,7 +7,8 @@
   </p>
 
 [![committers.top badge](https://user-badge.committers.top/algeria/haithamaouati.svg)](https://user-badge.committers.top/algeria/haithamaouati)
-[![StandWithPalestine](StandWithPalestine.svg)](https://haithamaouati.github.io/haithamaouati/palestine.html)
+[![StandWithPalestine](StandWithPalestine.svg)]()
+[![StandWithIran](StandWithIran.svg)]()
 
 ## Skills
 
