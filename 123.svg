@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="20" role="img" aria-label="One, two, three, viva l'Algérie !">
+    <title>One, two, three, viva l'Algérie !</title>
+
+    <linearGradient id="s" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+
+    <clipPath id="r">
+        <rect width="180" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+
+    <g clip-path="url(#r)">
+        <!-- left text background -->
+        <rect width="150" height="20" fill="#555"/>
+
+        <!-- right image area -->
+        <rect x="150" width="30" height="20" fill="#555"/>
+
+        <!-- image properly positioned -->
+        <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAYAAACiu5n/AAADRklEQVR4nO2Yb2hNYRzHP+fenXPvzt1ss79mi4XJsPkTRRQlq72YMKTm7xvaK61Ik6JMkiQvvCEpyp8iKaLkBWUl/4bNn0gMGxOX7Z7d3XvOPd7o5jhnrvScjet+39ye3/Oc8/t+73me7/N7HommuSZDALP5+lCkxTMkWYcQKcHJjpTgZEdKcLIjJdht+HSTCd1RtPttxMLhwU6PNBiV1uigzpL2Pha86Keo17D0KSXFZNdWk7d2Bb6xZW5TcVewTzfZ1NLLsjYNT4IsktdL3vqVFO/cjMfvd4uSe4ILQjH2XQ4y6UPU1tdSqlC3oZHAzKn4y8cAEH72gtCte0Rev6WwcSNyQZ4btNwR7NNNjp7/zIRuq9h3mV5OT1Y5W5FOaO8Nx2djIY3gxatkL6rG4/OJpuaOaTXe7HEUe2hmBserVDRZGphQQGX48lrCj566QU284NIvBkvb+2zx05NVLpUnXpva3QcAqNMrMb58FU2PNNEvrG8N2QyqpVThbEV6wme7D5+g/+Ur1GmVAHjSxZuXcMFzX0VssZZSn+M07txzEEmWyVo4DzMa5e32PeTW18X7JUURTU+s4IyIadtnAVqLZMfxufV1PJlTS2fzgXhM//jJMsY0DCSvVxhHoWu4qMcuFuBljvP/qpQUU7K7yRILXrhCW+V8OpsPEH76HKSBDe5P8FfW0qZhfP+NCX+30Cndlek89co+6zwstE/raOd73jTttsSya6spO3Yw3jZ1Q+hnEfqFexWJrgy76Koue7UF8PHoSQoa1jH+2jnKr5xCUmTS8oZbxkhp4tYvuODSN0YpLGuz7sOzOvo5V5Fuc+oR2zZZ2iN3bKH/dUe8bUYiwp1a+Bo+URUg9pPPzOqIOBYjPyN/42pyFtfE27E+8cdH4YI7sryORcaKhxo1zxILCMyYCoB25wHerGGi6bnj0vtnZ/I432pSxT0GDbd6WdWqoUYHPq/EQhqfzlzAP2m8G9RSx0Oh8OkmjTd7WNre91sXALlrljNy19Z/8wLgR/zqikceUUjO4prkuOJxgho1GRXUud1wBP+4MjwBdTDTi9+HE0GTJR7ny6hTJg52auAvraXdREpwsiMlONmREpzs+O8EfwOk/hqpvIADLgAAAABJRU5ErkJggg=="
+              x="150" y="0" width="30" height="20"/>
+    </g>
+
+    <!-- centered text block -->
+    <text x="75" y="13"
+          fill="#fff"
+          font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+          font-size="10"
+          text-anchor="middle">
+        One, two, three, viva l'Algérie !
+    </text>
+</svg>
