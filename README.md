@@ -8,6 +8,8 @@
 
 [![committers.top badge](https://user-badge.committers.top/algeria/haithamaouati.svg)](https://user-badge.committers.top/algeria/haithamaouati)
 
+[![Algeria](algeria.svg)]()
+[![ⴰⵎⴰⵣⵉⵖ](ⴰⵎⴰⵣⵉⵖ.svg)]()
 [![StandWithPalestine](StandWithPalestine.svg)]()
 [![StandWithIran](StandWithIran.svg)]()
 [![StandWithLebanon](StandWithLebanon.svg)]()
