@@ -14,7 +14,6 @@
 [![StandWithIran](StandWithIran.svg)]()
 [![StandWithLebanon](StandWithLebanon.svg)]()
 [![FuckZionism](FuckZionism.svg)]()
-[![Algeria](algeria.svg)]()
 
 ## Skills
 
