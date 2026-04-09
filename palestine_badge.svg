@@ -3,7 +3,7 @@
    width="152"
    height="20"
    role="img"
-   aria-label="Stand With Palestine: pla"
+   aria-label="#StandWithPalestine: pla"
    version="1.1"
    id="svg8"
    sodipodi:docname="palestine_badge.svg"
@@ -32,7 +32,7 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8" /><title
-     id="title1">Stand With Palestine: pla</title><linearGradient
+     id="title1">#StandWithPalestine: pla</title><linearGradient
      id="s"
      x2="0"
      y2="100%"><stop
@@ -96,11 +96,11 @@
        transform="scale(0.1)"
        textLength="1150"
        id="text5"
-       lengthAdjust="spacing">Stand With Palestine</text><text
+       lengthAdjust="spacing">#StandWithPalestine</text><text
        x="635"
        y="140"
        transform="scale(0.1)"
        fill="#ffffff"
        textLength="1150"
        id="text6"
-       lengthAdjust="spacing">Stand With Palestine</text></g></svg>
+       lengthAdjust="spacing">#StandWithPalestine</text></g></svg>
