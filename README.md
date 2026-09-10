@@ -9,8 +9,6 @@
 [![committers.top badge](https://user-badge.committers.top/algeria/haithamaouati.svg)](https://user-badge.committers.top/algeria/haithamaouati)
 [![StandWithPalestine](StandWithPalestine.svg)]()
 [![StandWithIran](StandWithIran.svg)]()
-[![StandWithLebanon](StandWithLebanon.svg)]()
-[![FuckZionism](FuckZionism.svg)]()
 
 ## Skills
 
