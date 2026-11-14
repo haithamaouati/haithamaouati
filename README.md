@@ -1,9 +1,9 @@
 <p align="center">
   <img width="125" height="125" src="avatar.png">
-  <br><b>Haitham Aouati</b></p>
+  <br><b>Haitham (<i>Eyas</i>)</b></p>
 
   <p align="center"> 
-    I’m Haitham Aouati (<i>also known as Eyas</i>), a tech enthusiast who likes computers. I’m not a genius or an expert in anything, but I’m always looking to gain and share my knowledge.
+    I’m Haitham (<i>also known as Eyas</i>), a tech enthusiast who likes computers. I’m not a genius or an expert in anything, but I’m always looking to gain and share my knowledge.
   </p>
 
 [![committers.top badge](https://user-badge.committers.top/algeria/haithamaouati.svg)](https://user-badge.committers.top/algeria/haithamaouati)
